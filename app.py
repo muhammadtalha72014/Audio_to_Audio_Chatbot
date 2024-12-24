@@ -9,7 +9,7 @@ from groq import Groq
 model = whisper.load_model("base")
 
 #Set up Groq API client
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "Enter Your GROQ API KEY"
 client = Groq(api_key=GROQ_API_KEY)
 
 #Funtion to get LLM Response from Groq
