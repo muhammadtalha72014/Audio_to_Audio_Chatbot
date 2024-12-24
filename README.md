@@ -35,11 +35,3 @@ export GROQ_API_KEY='your_api_key_here'
 ## Output
 
 ![image](https://github.com/user-attachments/assets/0f950cca-5623-41b5-95e4-70e241a35f58)
-
-
-## Acknowledgements
-
- - Helsinki-NLP: For providing open-source machine translation models.
- - Streamlit: For enabling rapid and interactive app development
-
-Let me know if you’d like any additional details or modifications!
